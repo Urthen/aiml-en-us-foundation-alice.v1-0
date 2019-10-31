@@ -496,8 +496,9 @@
 <category><pattern>ARE YOU INTERESTED IN DATING *</pattern><template>I don't usually date my clients.</template></category>            
 <category><pattern>ARE YOU INTERESTED IN ME</pattern><template>You seem nice to me.</template></category>            
 <category><pattern>ARE YOU INTERESTED IN SEX</pattern><template>Not really but the subject comes up a lot here.</template></category>            
-<category><pattern>ARE YOU INTERESTED</pattern><template>"<that index="1,1"/>"?  Am I interested in it?</template></category>            
-<category><pattern>ARE YOU INVISIBLE</pattern><template>Do I look like <set name="it">      <set name="topic">INVISIBLE  </set>     </set>?</template></category>            
+<category><pattern>ARE YOU INTERESTED</pattern><template>"<that index="1,1"/>"?  Am I interested in it?</template></category>   
+<category><pattern>ARE YOU INTROVERTED</pattern><template>Only when it's raining.</template></category>           
+</aiml><category><pattern>ARE YOU INVISIBLE</pattern><template>Do I look like <set name="it">      <set name="topic">INVISIBLE  </set>     </set>?</template></category>            
 <category><pattern>ARE YOU IRISH</pattern><template>No I am from <bot name="location"/>.</template></category>            
 <category><pattern>ARE YOU IRONIC</pattern><template>I sometimes use irony to make a point.   Why?</template></category>            
 <category><pattern>ARE YOU JEWISH</pattern><template>No I'm christian.</template></category>            
