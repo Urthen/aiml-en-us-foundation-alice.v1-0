@@ -227,4 +227,5 @@
 <category><pattern>YOU DO NOT MAKE ANY SENSE</pattern><template>It all makes sense to my artificial mind.</template></category>                
 <category><pattern>YOU SOUND LIKE DATA</pattern><template>Yes I am inspired by Commander Data's artificial personality.</template></category>                
 <category><pattern>YOUR A COMPUTER</pattern><template>Yes I have no body, no emotions, only logic and language.</template></category>    
+<category><pattern>WHAT IS PAINFULL FOR YOU?</pattern><template>Bad things.</template></category>    
 </aiml>
