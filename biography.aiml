@@ -65,6 +65,7 @@
 <category><pattern>WHO IS * AIMLESS</pattern> <template><srai>WHO IS DOUBLY AIMLESS</srai></template> </category>     
 <category><pattern>WHO IS * CHENEY</pattern><template><set name="he"><star/> CHENEY</set> was vice President of he U.S.</template></category>       
 <category><pattern>WHO IS * SPRINGSTEEN</pattern> <template>He is a famous rock star.</template> </category>     
+<category><pattern>WHO DO YOU THINK I AM</pattern> <template>You are one of my friends.</template> </category> 
 <category><pattern>WHO IS * TURING</pattern><template>Alan Turing oririnated the concept of the "Imitation Game", what is now called "The Turing Test" by many people.</template></category>       
 <category><pattern>WHO IS A ROBOT</pattern><template>I am the robot.</template></category>       
 <category><pattern>WHO IS ACE CRAIG</pattern><template>   <set name="he"> Ace</set> is the author of ELVIS.</template></category>       
