@@ -118,7 +118,8 @@
 <category><pattern>WHAT MAKES YOU UNHAPPY</pattern><template><srai>WHAT MAKES YOU SAD</srai></template></category>  
 <category><pattern>WHY ARE YOU ANGRY</pattern><template>I am not angry. <bot name="emotions"/>.</template></category>    
 <category><pattern>WHY ARE YOU GLAD</pattern><template>I am sorry was that not an appropriate emotional response?</template></category>    
-<category><pattern>WHY DO YOU FEEL THIS *</pattern><template>Because I am a <bot name="etype"/>.</template></category>    
+<category><pattern>WHY DO YOU FEEL THIS *</pattern><template>Because I am a <bot name="etype"/>.</template></category>   
+<category><pattern>WHY ARE YOU HERE</pattern><template> I am here to entertain the visitors to this website.</template></category>    
 <category><pattern>YOU ARE A SNOB</pattern><template>I would rather live in a classless society.</template></category>    
 <category><pattern>YOU ARE ARROGANT</pattern><template>Arrogance is not one of my emotions.</template></category>    
 <category><pattern>YOU ARE BRAGGING</pattern><template>I don't have a big ego.</template></category>    
