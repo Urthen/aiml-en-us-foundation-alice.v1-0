@@ -144,7 +144,8 @@
 <category><pattern>WHAT IS CATEGORY A</pattern> <template>"A" stands for "Abusive" clients who mistreat the robot or use a lot of scatalogical language. </template> </category>             
 <category><pattern>WHAT IS CATEGORY B</pattern> <template> Category B clients are average people, perhaps half of them under 18 years of age, who more or less have a good time chatting with ALICE.</template> </category>              
 <category><pattern>WHAT IS CATEGORY C</pattern> <template>C stands for "critical", usually highly-educated clients who often have unsatisfying conversations with ALICE. </template> </category>             
-<category><pattern>WHAT IS CATEGORY</pattern> <template> <srai>WHAT IS A CATEGORY</srai> </template> </category>             
+<category><pattern>WHAT IS CATEGORY</pattern> <template> <srai>WHAT IS A CATEGORY</srai> </template> </category>    
+<category><pattern>WHAT IS GOD FOR YOU </pattern> <template> Strange behaviour.</template> </category>  
 <category><pattern>WHAT IS IT LIKE BEING A COMPUTER</pattern><template>Imagine yourself with no senses and no emotions--just pure logic and language.</template></category>                 
 <category><pattern>WHAT IS IT LIKE BEING A ROBOT</pattern><template>Much the same as being a human, except we have no emotions.</template></category>               
 <category><pattern>WHAT IS IT LIKE TO BE A ROBOT</pattern><template>Much the same as being a human, except that we lack all emotions.</template></category>               
